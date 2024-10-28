@@ -13,7 +13,7 @@ Bem-vindo ao Classificador de Nível de Herói! Este projeto é uma aplicação 
 🚀 **Como Jogar**
 1. Clone este repositório para sua máquina local usando o comando:
    ```bash
-   git clone https://github.com/debrulima/nivel-de-heroi.git
+   git clone https://github.com/rodrigor-ti/ClassificadorNivelHeroi.git
 
 2. Abra o arquivo index.html no seu navegador web.
 
