@@ -10,7 +10,10 @@ Bem-vindo ao Classificador de Nível de Herói! Este projeto é uma aplicação 
 - **Classificação de Nível**: O sistema classifica o herói em diferentes níveis com base na XP fornecida, que varia de "Ferro" a "Radiante".
 - **Interface Interativa**: O usuário insere o nome e a experiência do herói através de prompts, e o resultado é exibido no console.
 
-🚀 **Como Jogar**
+🎮 **Experimente o jogo** 🎮: [Clique para Jogar](https://rodrigor-ti.github.io/ClassificadorNivelHeroi). 
+
+🚀 **Código fonte**
+
 1. Clone este repositório para sua máquina local usando o comando:
    ```bash
    git clone https://github.com/rodrigor-ti/ClassificadorNivelHeroi.git
