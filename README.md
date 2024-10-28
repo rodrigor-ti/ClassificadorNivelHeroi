@@ -12,18 +12,6 @@ Bem-vindo ao Classificador de Nível de Herói! Este projeto é uma aplicação 
 
 🎮 **Experimente o jogo** 🎮: [Clique para Jogar](https://rodrigor-ti.github.io/ClassificadorNivelHeroi). 
 
-🚀 **Código fonte**
-
-1. Clone este repositório para sua máquina local usando o comando:
-   ```bash
-   git clone https://github.com/rodrigor-ti/ClassificadorNivelHeroi.git
-
-2. Abra o arquivo index.html no seu navegador web.
-
-3. Siga as instruções no prompt para inserir o nome e a quantidade de XP do herói.
-
-4. O nível do herói será exibido no console.
-
 💻 **Contribuições** 
 Contribuições são sempre bem-vindas! Se você deseja melhorar o classificador, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request.
 
